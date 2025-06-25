@@ -1,7 +1,4 @@
 # Capstone-Telecom-Churn-Prediction
-ML project to predict telecom customer churn
-
-# Telecom Customer Churn Prediction
 
 This machine learning project predicts whether a telecom customer is likely to churn using classification models.
 
